@@ -1,4 +1,4 @@
 # Apnacollegedemo
 My 1st repository
 <br>
-Author - Kshitija Tamore
+Author - Kshitija Ganesh Sudha Tamore
